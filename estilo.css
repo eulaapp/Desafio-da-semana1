@@ -1,32 +1,33 @@
-body {
-    background-color: lightgoldenrodyellow;
-}
-#t1 {
-    color: lightseagreen;
-}
-img {
-    width: 75%;
-    height: auto;
-    border: 4px solid #000;
-  }
-
-
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 85%;
-  }
-  #ex1 {
-    border: 2px solid black;
-    border-radius: 100px;
-  }
-  p{
-      text-align: center;
-  }
-h2{
-    text-align: center;
+body{
+    background-color: #C09CD9;    
 }
 h1{
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.box{
+    background-color: #FFDB58;
+    border: #FFDB58 solid 2px;
+    border-radius: 15px;
+    padding: 20px;
+    font-size: large;
+    font-style: oblique; 
+   
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-radius: 20px;
+    }
+p{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+.boxone{
+    background-color: white;
+    font-size: large;
+    border-radius: 15px;
+    padding: 20px;
 }
